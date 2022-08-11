@@ -1,0 +1,46 @@
+1 quadro 
+
+Desc: Talvez, afinal, devêssemos ter começado nossa história com uma batalha breve, mas amarga, que ocorreu na distante cidade de Gotham na noite anterior...
+
+Fala 1: Parece que este é o seu último trabalho, Joker!
+Fala 2: O Batman !
+
+2 quadro 
+
+Desc: Mais rápidos e precisos que as balas dos criminosos, os punhos reluzentes do batman e do robin encontram alvos involuntários...
+
+Fala1: Sabe, Kite, parece que você está prestes a decolar!
+Fala2: Isso deve tirar o vento de suas velas!
+Fala3: Ria, palhaço, ria! Você vai chorar em um segundo! HA HA!
+
+3 quadro
+
+Desc: Mas o malvado saco de truques do Coringa contém um que vira a maré temporariamente contra a justiça...
+Fala1: O que--? Uma bomba de amônia?
+Fala2: Venha, amigos, o carro de fuga está esperando!
+
+4 quadro
+
+Fala1: Aquele demônio inteligente fez isso de novo!
+Fala2: Acho que um deles deixou cair este pedaço de papel... Mas meus olhos estão queimando, então não consigo ler o que está nele!
+
+5 quadro
+
+Desc: A manhã encontra um avião zumbindo para o oeste sobre um deserto montanhoso.
+Fala1: HA, HA! Mostrei ao Batman que eu era inteligente demais para ele! Ei, meninos?
+Fala2: Você com certeza fez, Coringa! Com essas pedras nas coisas de nossos outros trabalhos, seremos milionários!
+
+6 quadro
+
+Fala1: Eu, o criminoso mais inteligente do mundo - e vocês três, os operadores mais habilidosos do submundo! Nós nos divertimos muito, não é, Sparky?
+Fala2: Vou me divertir mais quando chegar onde você guardou os ganhos e eu receber minha parte!
+
+7 quadro
+
+fala1: Estaremos lá em apenas alguns minutos e --- o que é isso? O motor está se preparando para parar!
+Fala2: Que lugar para um pouso forçado! Nós nunca conseguiríamos!
+
+8 quadro
+
+Fala1: Rápido ---- Salte em seus chutes! -- Eu a segurarei firme até que você se vá, e então eu o seguirei!
+Fala2: Chee - Eu não me importo de atirar, mas esse ato divino me deixou com medo!
