@@ -2,7 +2,7 @@
 
 Desc: Talvez, afinal, devêssemos ter começado nossa história com uma batalha breve, mas amarga, que ocorreu na distante cidade de Gotham na noite anterior...
 
-Fala 1: Parece que este é o seu último trabalho, Joker!
+Fala 1: Parece que este é o seu último trabalho, Coringa!
 Fala 2: O Batman !
 
 2 quadro 

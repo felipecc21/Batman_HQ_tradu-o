@@ -1,0 +1,34 @@
+quadro 1
+
+Desc: Assim é que três pára-quedas de seda crescem no ar acima das colinas de madeira
+
+quadro 2
+
+Desc: Enquanto a ganância do Coringa o leva a uma aposta traiçoeira com o destino!
+Fala1: Há, há! Que tolos eles são! Se eu conseguir manter este avião no ar, não terei que dividir com eles! Eles nunca encontrarão o saque escondido... e nunca mais me verão! Há, há!
+
+quadro 3
+
+Desc: Mas o motor está em pior estado do que o arqui-criminoso imagina... Chamas irrompem da capota... A embarcação mergulha bruscamente... e segundos depois...
+
+quadro 4
+
+Desc: As horas passam... e em uma ravina densa não muito longe das ruínas fumegantes do avião, uma figura esparramada se agita...
+Fala1: Onde... Onde estou ? .... Eu me sinto atordoado, zonzo ....Deve ter andado e caído aqui...
+
+Quadro 5
+
+Fala1: Quem sou eu? Engraçado... Não consigo me lembrar de nada! Oh, bem, talvez tudo volte quando o choque passar... Oh,... minha cabeça está girando...
+
+Quadro 6
+
+Fala1: Um avião! caiu e destruiu! Eu poderia estar nele? .... Mas não... eu certamente teria sido morto nesse caso... hmmmmm... aqui está uma valise que foi descartada.
+
+Quadro 7
+
+Fala1: Jóias que valem uma fortuna!
+Gostaria de saber se esse jornal que estava dentro da valise pode me dizer alguma coisa...?
+
+Quadro 8
+
+Fala1: Ora, este deve ser o saque daquele roubo! E o Coringa - quem quer que seja - deve ter sido queimado até a morte ao fugir! Só mais uma prova de que o crime não compensa!
