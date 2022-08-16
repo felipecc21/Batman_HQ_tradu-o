@@ -19,3 +19,10 @@ Está traduzido até a pagina 3. :star:
 
 
 :satellite: Link da versão original dispónivel na web: https://readcomiconline.li/Comic/Batman-1940/Issue-16?id=17563#1
+
+
+<hr />
+
+## Reabertura do projeto, com a escolha de uma nova HQ
+
+A Hq escolhida foi Batman: Arkham Asylum - The Road to Arkham :closed_book:
