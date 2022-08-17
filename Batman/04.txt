@@ -1,0 +1,48 @@
+quadro 1
+
+Desc: Eu estava caçando o Coringa por quase dois meses. Era como se ele tivesse sumido da face da terra.
+
+Desc2: É bom quando ele está quieto – mas não tão quieto.
+
+Fala: Nós ja chegamos ?
+
+Quadro 2
+
+Quadro 3
+
+Desc: Ouvi dizer que ele voltou para o negócio químico, mas o palhaço teve muito tempo para fazer travessuras.
+
+Fala: Ei, é a Oracle. Ouvi dizer que você teve uma noite ocupada.
+
+quadro 4
+
+Fala1: Informe o comissário Gordon e o Diretor Sharp que terei o Coringa no Arkham em quinze minutos.
+
+Fala2: Já feito. Sabe, esta é a terceira arma grande que você trouxe este mês. Gostaria de saber se Arkham ainda tem vagas
+
+Fala3: Há sempre um quarto pronto para o palhaço
+
+quadro 5
+
+Fala1: Você não parece feliz.
+
+Fala2: Todas essas prisões foram resultado de denúncias anônimas. Qual é a chance de todos os três darem certo? É muito ... limpo.
+
+Fala3: O que você acha?
+
+Quadro 6
+
+Fala: Que eles vieram da mesma fonte. Alguém com laços profundos com o submundo do crime. Alguém que quer limpar o campo de jogo.
+
+Quadro 7
+
+Fala1: Não pode ser duas caras... Ele ainda está no hospital, se recuperando do seu último encontro. E a máscara negra se retirou para Blüdhaven. Todos os outros você praticamente trancou.
+
+Fala2: Alguém está por trás disso.
+
+Quadro 8
+
+Fala: Lembra da primeira dica? A polícia encontrou-o no consultório da Dra. Sarah Cassidy após o seu rapto. Levava ao antigo hospital do condado....
+
+
+

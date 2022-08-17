@@ -1,0 +1,45 @@
+quadro 1
+
+Desc: .....Zsasz a levou lá para uma cirurgia não programada.
+
+Fala1: Lembra como você cutucou e cutucou meu cérebro em Arkham, doutor?
+
+Quadro 2
+
+Fala: Pensei em retribuir o favor.
+
+Quadro 3
+
+Desc: Se eu tivesse chegado lá mais tarde -
+
+Quadro 4
+
+Desc: Ele já teria feito um novo corte em sua pele.
+
+Quadro 5
+
+Desc1: Eu peguei Zsasz de surpresa - e ele não estava feliz com isso.
+
+Desc2: Não posso dizer o mesmo para o próximo....
+
+Quadro 6
+
+Desc: Essa dica veio na forma de um tubo de ensaio deixado anonimamente na sede da polícia. Havia uma nota anexada. O frasco deveria ser dado a mim.
+
+Quadro 7
+
+Desc: Não fiquei surpreso ao descobrir que o tubo de ensaio continha um gás de medo incolor e inodoro, semelhante às toxinas anteriores do espantalho - mas ainda mais forte.
+
+Quadro 8
+
+Desc1: Tão forte que algumas moléculas do composto atravessaram meus selos a vácuo e me afetaram.
+
+Desc2: Levou toda a minha força de vontade para não sucumbir.
+
+Desc3: As perguntas eram...
+
+Quadro 9
+
+Desc1: --- Posso inventar um antídoto antes de ele atacar?
+
+Desc2: E quem seria seu alvo?

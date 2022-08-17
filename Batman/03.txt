@@ -1,0 +1,3 @@
+desc: Quase nenhum tráfego esta noite, o que é bom. Quanto mais rápido eu chegar à ilha de Arkham, melhor.
+
+fala: Já estamos lá ? 
